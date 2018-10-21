@@ -25,3 +25,6 @@ USER’S PER-MESSAGE SECRET NUMBER:
 
 The integers p, q, and g can be public and can be common to a group of users. A user's private and public keys are x and y, respectively. They are normally fixed for a period of time. Parameters x and k are used for signature generation only, and must be kept secret. Parameter k must be regenerated for each signature. 
 
+TO DEPLOY - 
+1 - copy the code in netbeans and save it as java
+2 - Run the code and cross verify the keys generated.
